@@ -1,0 +1,14 @@
+{
+  "name": "sv-netmaps",
+  "version": "1.0.0",
+  "description": "servidor de netmaps",
+  "author": "nico",
+  "main": "p.js",
+  "scripts": {
+    "start": "node p.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7"
+  }
+}
